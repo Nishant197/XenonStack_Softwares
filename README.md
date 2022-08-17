@@ -16,7 +16,7 @@ Majorly Technology/Tools/Skills used in this Projects are:
 - [Javascript & jQuery] - For Behaviour.
 - [GitHub Pages] - For Hosting 
 - [Firebase Authentication] - For Admin Authentication
-- [Firebase Realtime Database] - Key value Pair NoSQL database 
+- [Firebase Realtime Database] - Key-Value Pair Based NoSQL database 
 
 ## How to Visit
 
